@@ -308,7 +308,7 @@ $config['cache_query_string'] = FALSE;
 | http://codeigniter.com/user_guide/libraries/encryption.html
 |
 */
-$config['encryption_key'] = 'chatbull_JTmP5iXQ';
+$config['encryption_key'] = 'chatbull_nQLGRorm';
 
 /*
 |--------------------------------------------------------------------------
@@ -359,7 +359,7 @@ $config['encryption_key'] = 'chatbull_JTmP5iXQ';
 |
 */
 $config['sess_driver'] = 'database';
-$config['sess_cookie_name'] = 'chatbull_session';
+$config['sess_cookie_name'] = 'y71u93Nm_session';
 $config['sess_expiration'] = 7200;
 $config['sess_save_path'] = 'session';
 $config['sess_match_ip'] = FALSE;
@@ -503,7 +503,7 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 
-$config['installed'] = 'no';
-$config['validated_code'] = 'no';
-$config['language_version'] = '20171016052846';
-$config['application_token'] = 'bGFTDxidXrWBtk5symcV';
+$config['installed'] = 'yes';
+$config['validated_code'] = 'yes';
+$config['language_version'] = 20190611172208;
+$config['application_token'] = 'DN5lLKbsUv3aIGd2jmXo';
